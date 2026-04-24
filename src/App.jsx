@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react"
 
-import SearchBar from "./components/searchBar.jsx"
+import SearchBar from "./components/SearchBar.jsx"
 import Spinner from "./components/Spinner.jsx"
 import ErrorMessage from "./components/ErrorMessage.jsx"
 import MovieCard from "./components/MovieCard.jsx"
